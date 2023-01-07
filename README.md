@@ -1,4 +1,2 @@
-# Chat-GPT
-Ai-Chat
-
-online: https://chatgpt.sbaliyun.com/
+# Chat-GPT HTML Application
+Modified from: https://chatgpt.sbaliyun.com/
